@@ -34,7 +34,6 @@
         "Document_Tag_Name": "DOC-000033",
         "Document_Name": "Test.png"
     },
-    
     {
         "image_id": 106,
         "image_url": "https://images.pexels.com/photos/1045535/pexels-photo-1045535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -49,5 +48,4 @@
         "Document_Tag_Name": "DOC-000035",
         "Document_Name": "Bike.png"
     }
-    
 ]

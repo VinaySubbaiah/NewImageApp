@@ -34,8 +34,6 @@ export class ImageComponent implements OnInit, AfterViewInit {
 
   firstItemIndex;
   lastItemIndex;
-
-
   closeResult: string;
   Images: Images[];
   images: string;
